@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.one  img {
+    width: 50%;
+    height: 600px;
+    float: left;
+}
+
+ 
+
+ .faza {
+     color: white;
+     background-color: blue;
+     text-align: center;
+     width: 35%;
+     height: 25px;
+     border-radius: 5px;
+     margin-left: 50px;
+ }
+
+ .zafa {
+     color: aqua;
+     background-color: black;
+     text-align: center;
+     width: 35%;
+     height: 25px;
+     border-radius: 5px;
+     margin-left: 50px;
+ }
+
+ .two h1 {
+     color: white;
+     margin-left: 50px;
+     margin-top: 200px;
+ }
+
+ .two h4 {
+     color: white;
+     margin-left: 50px ;
+
+ }
+
+ .two {
+     background-color: black;
+     width: 50%;
+     height: 600px;
+    
+     float: right;
+     
+    
+ }
+
+ .third {
+     color: white;
+     background-color: black;
+    }
